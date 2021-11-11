@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Table name="UserInfo">
+<UserInfo Type="UserInfo">
+        <BrokerID BrokerID = "gBrokerID">经纪商ID</BrokerID>
+        <InvesterID InvesterID = "gInvesterID">用户ID</InvesterID>
+        <InvesterPassword InvesterPassword = "gInvesterPassword">用户密码</InvesterPassword>
+ 	<InvesterAppID InvesterAppID = "gInvesterAppID">用户APP_ID</InvesterAppID>
+        <InvesterAuthCode InvesterAuthCode = "gInvesterAuthCode">用户授权码</InvesterAuthCode>
+	<MdFrontAddr  MdFrontAddr= "gMdFrontAddr">tcp://221.224.159.11:57213</MdFrontAddr>
+ 	<TradeFrontAddr TradeFrontAddr = "gTradeFrontAddr">tcp://221.224.159.11:57205</TradeFrontAddr>
+    <TradeInstrumentID TradeInstrumentID = "g_pTradeInstrumentID">a2201</TradeInstrumentID>
+    <db_user_name db_user = "db_user">root</db_user_name>
+    <db_user_password db_user_password = "db_user_password">root</db_user_password>
+    <db_user_database db_database = "db_database">test</db_user_database>
+    <db_user_table db_table = "db_table">a2201</db_user_table>
+
+</UserInfo>
+</Table>
