@@ -77,4 +77,5 @@ clean:
 
 
 If your Mysql install dir was not the same as the Makefile,you should modify the Makefile In order to make sure they are same with your environment.
+In Test Trade Program,you need to additionally compile libxml,this tool can be easy get from the Internet.
 
