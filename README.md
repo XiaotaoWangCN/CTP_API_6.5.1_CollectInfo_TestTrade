@@ -1,5 +1,7 @@
-# CTP_API_6.5.1_CollectInfo_TestTrade
+# CTP_API_6.5.1_Product_Version_CollectInfo_TestTrade
 CTP_API_6.5.1_CollectInfo_TestTrade, Collect Whole Market Info and stored in DB and An Example of Test Trade
+
+API can be downloaded from here http://www.sfit.com.cn/5_2_DocumentDown_6.htm (Version:v6.5.1_20200908 16:00:00)
 
 In Market Program,after Install Mysql and prepair dynamic links for CTP API
 In Market Folder,just run make,the as follow 
