@@ -3,11 +3,11 @@ CTP_API_6.5.1_CollectInfo_TestTrade, Collect Whole Market Info and stored in DB 
 
 In Market Program,after Install Mysql and prepair dynamic links for CTP API
 In Market Folder,just run make,the as follow 
-#
+
 TAG=main
-#
+
 OBJ= CustomMdSpi.o CustomTradeSpi.o main.o
-#
+
 CC:=g++
 #
 CFLAGS:=-g
