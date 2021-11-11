@@ -5,6 +5,7 @@ In Market Program,after Install Mysql and prepair dynamic links for CTP API
 In Market Folder,just run make,the as follow 
 #
 TAG=main
+#
 OBJ= CustomMdSpi.o CustomTradeSpi.o main.o
 CC:=g++
 CFLAGS:=-g
